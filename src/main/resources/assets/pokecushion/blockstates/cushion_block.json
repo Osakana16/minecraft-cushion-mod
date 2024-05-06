@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "": {
+            "model": "pokecushion:block/cushion_block"
+        }
+    }
+}

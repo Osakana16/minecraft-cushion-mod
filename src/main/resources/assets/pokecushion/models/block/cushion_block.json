@@ -1,0 +1,7 @@
+{
+    "render_type": "minecraft:solid",
+    "parent": "minecraft:block/cube_all",
+    "textures": {
+        "all": "pokecushion:block/cushion_block"
+    }
+}
